@@ -86,8 +86,9 @@ EndProcedure
 
 
 
-; IDE Options = PureBasic 4.61 Beta 1 (Windows - x86)
-; CursorPosition = 3
+; IDE Options = PureBasic 5.70 LTS (Windows - x86)
+; CursorPosition = 80
+; FirstLine = 28
 ; Folding = -
 ; EnableXP
 ; EnableUser

@@ -1,0 +1,4 @@
+User:WDAGUtilityAccount, Graphics: Microsoft Remote Display Adapter, Processor: Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz, Windows: Windows 10 x64, Program version: 2.2.0 Bulid: 2518, DPI: 96
+
+
+-----------------------------------------------------------------

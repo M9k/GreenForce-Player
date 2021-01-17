@@ -531,7 +531,7 @@ EndProcedure
 
 Procedure.q GetDRMHeaderSnapshotProtection(*header.DRM_HEADER)
 If *header
-  ProcedureReturn *header\lSnapshotProtection
+  ProcedureReturn #False
 EndIf
 EndProcedure
 
@@ -2178,10 +2178,10 @@ EndProcedure
 ; ;EncryptFileV2("D:\test-video.mp4", "D:\test-video.gpf", "psw", *head, #Null)
 ; 
 ; ;DecryptFileV2("D:\test-video.gpf", "D:\test-video.mp4", "psw", #Null)
-; IDE Options = PureBasic 5.42 LTS (Windows - x86)
-; CursorPosition = 1444
-; FirstLine = 1381
-; Folding = fw4Dw----------0
+; IDE Options = PureBasic 5.70 LTS (Windows - x86)
+; CursorPosition = 168
+; FirstLine = 159
+; Folding = f54z0----------0
 ; EnableXP
 ; DisableDebugger
 ; EnableCompileCount = 164

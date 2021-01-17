@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.60 (Windows - x86)">
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.70 LTS (Windows - x86)">
   <section name="config">
     <options closefiles="1" openmode="4" name="GreenForce-Player"/>
     <comment>GreenForce-Player is a MediaPlayer</comment>
@@ -8,12 +8,12 @@
   <section name="data">
     <explorer view="include\" pattern="0"/>
     <log show="1"/>
-    <lastopen date="2019-04-30 23:11" user="benutzer" host="PC1"/>
+    <lastopen date="2021-01-17 16:42" user="WDAGUtilityAccount" host="4069027A-1D3E-4"/>
   </section>
   <section name="files">
     <file name="GFP_Main.pb">
-      <config load="1" scan="1" panel="1" warn="1" lastopen="1" panelstate="+"/>
-      <fingerprint md5="c4f94856eeaaeb529f41cee5cbc93ea8"/>
+      <config load="1" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="394478f536846e53b401fc112f8d0641"/>
     </file>
     <file name="GFP_OEM.pbi">
       <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
@@ -32,12 +32,12 @@
       <fingerprint md5="1eab706aaa3ec70377d35347a3cf51af"/>
     </file>
     <file name="include\GFP_ANTI_HOOK_3.pbi">
-      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="++"/>
       <fingerprint md5="e93eb3aeb2153c925e850216b75d0a51"/>
     </file>
     <file name="include\GFP_AntiDebug.pbi">
-      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
-      <fingerprint md5="4df9959ef6f05adc34d088b757e05099"/>
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="++"/>
+      <fingerprint md5="6889d2b983a5f68eee79252894042edb"/>
     </file>
     <file name="include\GFP_API_File2.pbi">
       <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
@@ -60,8 +60,8 @@
       <fingerprint md5="c8ea8302002af07777cccc762cc20832"/>
     </file>
     <file name="include\GFP_CheckRunning.pbi">
-      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
-      <fingerprint md5="92424e2bd19c846e64b5ccebc1887661"/>
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="++"/>
+      <fingerprint md5="68708577c35fcf2f8692a43a8cd984de"/>
     </file>
     <file name="include\GFP_CodecInstaller.pbi">
       <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
@@ -100,8 +100,8 @@
       <fingerprint md5="49f1ada312cbb289cf4f697e19e308a6"/>
     </file>
     <file name="include\GFP_DRMHeaderV2_52_Unicode.pbi">
-      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
-      <fingerprint md5="32dceb0a2e020dacfa50797c5b26a0c0"/>
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="++"/>
+      <fingerprint md5="fab28915ff42ba6478a9854b0251ca4b"/>
     </file>
     <file name="include\GFP_DRMHelpFunctions.pbi">
       <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
@@ -116,7 +116,7 @@
       <fingerprint md5="d81e2bf85fbbca387f1da113cff15208"/>
     </file>
     <file name="include\GFP_DShow_Helper2.pbi">
-      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="++"/>
       <fingerprint md5="6f94d047b22222eb3a34217f98b40905"/>
     </file>
     <file name="include\GFP_exe-attachment4.pbi">
@@ -144,7 +144,7 @@
       <fingerprint md5="b566c44274f8e9ce6a2a505815deb31e"/>
     </file>
     <file name="include\GFP_LAVFilters.pbi">
-      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="++"/>
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
       <fingerprint md5="d79af774ec0e6b3aa70321a69929f1b1"/>
     </file>
     <file name="include\GFP_LEAK_DEBUG.pbi">
@@ -152,7 +152,7 @@
       <fingerprint md5="75cde363441acceaeef379cfa0868d6b"/>
     </file>
     <file name="include\GFP_Limitations.pbi">
-      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="++"/>
       <fingerprint md5="f6b94cced267b016ae1f415545b8ce0e"/>
     </file>
     <file name="include\GFP_LogFile.pbi">
@@ -212,20 +212,20 @@
       <fingerprint md5="600ffc2c2a3c6e7479aa77a8b12babe0"/>
     </file>
     <file name="include\GFP_Protection_DWM.pbi">
-      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
-      <fingerprint md5="fe58265d55c654fd236f27af5dfee397"/>
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="++"/>
+      <fingerprint md5="91680847e5e9afef3c8729cf872efe12"/>
     </file>
     <file name="include\GFP_Protection_Misc.pbi">
-      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
-      <fingerprint md5="86522acea80fb9b239493a7e0eda313f"/>
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="++"/>
+      <fingerprint md5="a991655ea32311aa1bbe6f47e2b9a38a"/>
     </file>
     <file name="include\GFP_Protection_User.pbi">
-      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
-      <fingerprint md5="dff60d69881ad594d741719c9d4c685d"/>
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="++"/>
+      <fingerprint md5="f349cb4df03cb238d798180d0490c80c"/>
     </file>
     <file name="include\GFP_Protection_WndCallback3.pbi">
-      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
-      <fingerprint md5="8cffe4d17db052dd2d6c0591bc1551c1"/>
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="++"/>
+      <fingerprint md5="62519a2a15b29940ce202ef4a0975c51"/>
     </file>
     <file name="include\GFP_RandomGenerator2.pbi">
       <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
@@ -336,12 +336,12 @@
       <fingerprint md5="de47fe882c747ffa25a5ed5a94740038"/>
     </file>
     <file name="include\GFP_Visualization.pbi">
-      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="++"/>
       <fingerprint md5="e8eb8455692027c5a4279283a503cc9c"/>
     </file>
     <file name="include\GFP_VMDetect.pbi">
-      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
-      <fingerprint md5="3661b2fba8c1ed5ca5aaff813d36451e"/>
+      <config load="0" scan="1" panel="1" warn="1" lastopen="1" panelstate="++"/>
+      <fingerprint md5="dc7c3e628f0cdc84f7f4fc9905581731"/>
     </file>
     <file name="include\GFP_VolumeGadGet.pbi">
       <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
@@ -364,8 +364,8 @@
       <options unicode="1" thread="1" xpskin="1" user="1" onerror="1" debug="1"/>
       <icon enable="1">data\GFP.ico</icon>
       <warnings custom="1" type="display"/>
-      <compilecount enable="1" value="10702"/>
-      <buildcount enable="1" value="2513"/>
+      <compilecount enable="1" value="10711"/>
+      <buildcount enable="1" value="2519"/>
       <execonstant enable="1"/>
       <versioninfo enable="1">
         <field0 value="2,2,0,0"/>
@@ -394,8 +394,8 @@
       <options unicode="1" thread="1" xpskin="1" user="1" onerror="1" debug="1"/>
       <icon enable="1">OEM-data\oem.ico</icon>
       <warnings custom="1" type="display"/>
-      <compilecount enable="1" value="7215"/>
-      <buildcount enable="1" value="2382"/>
+      <compilecount enable="1" value="7220"/>
+      <buildcount enable="1" value="2387"/>
       <execonstant enable="1"/>
       <constants>
         <constant value="#USE_OEM_VERSION = 1" enable="1"/>
@@ -408,8 +408,8 @@
       <options unicode="1" thread="1" xpskin="1" onerror="1" debug="1"/>
       <icon enable="1">data\Save.ico</icon>
       <warnings custom="1" type="display"/>
-      <compilecount enable="1" value="524"/>
-      <buildcount enable="1" value="484"/>
+      <compilecount enable="1" value="531"/>
+      <buildcount enable="1" value="491"/>
       <execonstant enable="1"/>
       <versioninfo enable="1">
         <field0 value="1,1,3,0"/>
@@ -436,8 +436,8 @@
       <options unicode="1" thread="1" xpskin="1" onerror="1" debug="1"/>
       <icon enable="1">OEM-data\Crypt\video-encrypt.ico</icon>
       <warnings custom="1" type="display"/>
-      <compilecount enable="1" value="502"/>
-      <buildcount enable="1" value="481"/>
+      <compilecount enable="1" value="508"/>
+      <buildcount enable="1" value="487"/>
       <execonstant enable="1"/>
       <constants>
         <constant value="#USE_OEM_VERSION = 1" enable="1"/>
@@ -451,8 +451,8 @@
       <icon enable="1">data\Save.ico</icon>
       <format exe="console" cpu="0"/>
       <warnings custom="1" type="display"/>
-      <compilecount enable="1" value="539"/>
-      <buildcount enable="1" value="490"/>
+      <compilecount enable="1" value="545"/>
+      <buildcount enable="1" value="496"/>
       <execonstant enable="1"/>
       <versioninfo enable="1">
         <field0 value="1,1,3,0"/>
@@ -480,8 +480,8 @@
       <icon enable="1">OEM-data\Crypt\video-encrypt.ico</icon>
       <format exe="console" cpu="0"/>
       <warnings custom="1" type="display"/>
-      <compilecount enable="1" value="489"/>
-      <buildcount enable="1" value="486"/>
+      <compilecount enable="1" value="495"/>
+      <buildcount enable="1" value="492"/>
       <execonstant enable="1"/>
       <constants>
         <constant value="#USE_OEM_VERSION = 1" enable="1"/>
@@ -495,8 +495,8 @@
       <icon enable="0">data\Save.ico</icon>
       <format exe="dll" cpu="0"/>
       <warnings custom="1" type="display"/>
-      <compilecount enable="1" value="505"/>
-      <buildcount enable="1" value="492"/>
+      <compilecount enable="1" value="511"/>
+      <buildcount enable="1" value="498"/>
       <execonstant enable="1"/>
       <versioninfo enable="1">
         <field0 value="1,1,3,0"/>
@@ -524,8 +524,8 @@
       <icon enable="0">data\Save.ico</icon>
       <format exe="dll" cpu="0"/>
       <warnings custom="1" type="display"/>
-      <compilecount enable="1" value="494"/>
-      <buildcount enable="1" value="490"/>
+      <compilecount enable="1" value="500"/>
+      <buildcount enable="1" value="496"/>
       <execonstant enable="1"/>
       <constants>
         <constant value="#USE_OEM_VERSION = 1" enable="1"/>
